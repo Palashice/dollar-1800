@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    #nav1 {
+        display: flex;
+        border: 2px solid red;
+        height: 150px;
+    }
+
+    #div1 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 20%;
+    }
+
+    #div2 {
+        width: 60%;
+        height: 100%;
+        border: 1px solid red;
+    }
+
+    #div3 {
+        display: flex;
+        align-items: center;
+        width: 20%;
+        justify-content: space-evenly;
+    }
+
+    #div2>ul {
+        display: flex;
+        width: 100%;
+        list-style: none;
+        align-items: center;
+        justify-content: space-evenly;
+        height: 100%;
+    }
+
+    #div4 {
+        display: none;
+    }
+
+    button {
+        padding: 10px 20px;
+        border-radius: 5px;
+        background-color: blue;
+        color: white;
+        border: none;
+    }
+
+
+
+    @media (max-width:900px) {
+
+        #div1,
+        #div2,
+        #div3 {
+            display: none;
+        }
+#div4{   
+    display: inherit;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 90px;
+    padding-right: 80px;
+}
+
+
+
+
+
+    }
+</style>
+
+<body>
+    <nav id="nav1">
+
+        <div id="div1">
+            <h1>Test Company</h1>
+        </div>
+
+
+        <div id="div2">
+            <ul>
+                <li>Home</li>
+                <li>About us</li>
+                <li>Contact us</li>
+                <li>FAQs</li>
+                <li>Book a demo</li>
+                <li>Services</li>
+            </ul>
+        </div>
+
+
+        <div id="div3">
+
+
+            <button>Sign up</button>
+
+            <button>Sign in</button>
+
+
+
+
+
+        </div>
+
+        <div id="div4">
+    <div id="div5">
+        <h1>Test Company</h1>
+    </div>
+
+    <button>Sign up</button>
+
+    <button>Sign in</button>
+
+</div>
+
+
+
+
+
+
+
+    </nav>
+</body>
+
+</html>

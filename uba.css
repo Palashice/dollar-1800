@@ -1,0 +1,1438 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+#navOne {
+    list-style: none;
+    display: flex;
+    border: 2px solid red;
+    width: 100%;
+    height: 100px;
+}
+
+#div1 {
+    display: flex;
+    list-style: none;
+    border: 1px solid red;
+    width: 750px;
+    margin-top: 10px;
+    height: 30px;
+    justify-content: space-evenly;
+    font-size: 10px;
+    margin-top: 20px;
+
+
+}
+
+
+
+#head1 {
+
+    margin-right: 50px;
+}
+
+#div2 {
+    border: 1px solid red;
+    width: 200px;
+}
+
+#img1 {
+    margin-left: 200px;
+    margin-bottom: 100px;
+
+}
+
+#button1 {
+    height: 20px;
+
+}
+
+#section1 {
+    background-image: url(https://media.licdn.com/dms/image/D4D12AQG_ouCNoeut8Q/article-cover_image-shrink_720_1280/0/1679638788377?e=2147483647&v=beta&t=FmOcgD4kkGcHtM5xdEiGlgWyobjF4IWtUONNK3qRfxw);
+    width: 100%;
+    height: 400px;
+
+}
+
+#head8 {
+    margin-left: 100px;
+}
+#search{
+    margin-left: 100px;
+    margin-top: 600px;
+    
+} */
+
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+#sectionone {
+    background-image: url(https://l450v.alamy.com/450v/2k56w7j/person-holding-mobile-phone-with-logo-of-company-united-bank-for-africa-plc-uba-on-screen-in-front-of-business-web-page-focus-on-phone-display-2k56w7j.jpg);
+    width: 100%;
+    height: 220px;
+}
+
+#navone {
+    display: flex;
+    width: 100%;
+    height: 90px;
+    position: sticky;
+}
+
+.padlock {
+    padding-right: 10px;
+    color: white;
+}
+
+#buttonone {
+    width: 180px;
+    height: 45px;
+    margin-top: 23px;
+    margin-left: 30px;
+    background-color: #AD0201;
+    border: 1px solid #AD0201;
+    border-radius: 5px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+#divone {
+    display: flex;
+    color: rgba(0, 0, 0, 0.45);
+    font-weight: lighter;
+} */
+
+/* #house {
+    margin-top: 38px;
+    margin-left: 12px;
+    font-size: 17px;
+}
+
+.hone {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.htwo {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.hthree {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+} */
+
+/* .hfour {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.hfive {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.hsix {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+#world {
+    margin-top: 38px;
+    margin-left: 20px;
+    font-size: 17px;
+} */
+
+/* .hseven {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+} */
+
+/* #search {
+    margin-top: 36px;
+    margin-left: 150px;
+    font-size: 17px;
+} */
+
+/* .img1 {
+    width: 170px;
+    margin-top: 5px;
+    margin-left: 20px;
+} */
+
+/* #divtwo {
+    color: white;
+} */
+/* 
+#buttontwo {
+    background-color: #AD0201;
+    color: white;
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+} */
+
+/* #divthree {
+    width: 95%;
+    height: 120px;
+    /* border: 2px solid red; */
+margin: 20px auto;
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+}
+
+*/
+/* #container {
+    width: 30%;
+    height: inherit;
+    background-color: beige;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 20px;
+} */
+
+/* #sectiontwo {
+    background-color: white;
+    width: 100%;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 50px;
+} */
+/* 
+#head01 {} */
+
+/* #section3 {
+    background-image: url(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxQgzVhF5lnhfH8E_vf7k3zw6hlTZtr_9_HOTCIVV_9i9-mTao);
+    width: 100%;
+    height: 400px;
+    color: white;
+    border: 1px solid red;
+
+} */
+
+/* #head02 {
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 30px;
+} */
+
+/* #head03 {
+
+    color: white;
+    font-size: 30px;
+    margin-left: 50px;
+} */
+
+/* #head04 {
+    color: white;
+    margin-left: 50px;
+    font-size: 40px;
+} */
+
+/* #head05 {
+    color: white;
+    margin-left: 50px;
+    font-size: 50px;
+} */
+
+/* #pre01 {
+    color: white;
+    margin-left: 15px;
+    font-size: 13px;} */
+
+/* #img00{
+    width: 200px;
+
+} */
+/* #testFixed{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: red;
+    border: 1px solid black;
+    border-radius: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+} */
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#navOne {
+    display: flex;
+    height: 100px;
+    border: 1px solid black;
+    width: 100%;
+}
+
+#divOne,
+#divThree {
+    height: inherit;
+    width: 22.5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid blue;
+}
+
+#divOne {
+    letter-spacing: 1px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#divTwo {
+    width: 55%;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 1px solid green;
+
+}
+
+#B1 {
+    background-color: rgb(221, 21, 21);
+    color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#divTwo>ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: gray;
+    letter-spacing: 1px;
+}
+
+#divFour {
+    background-image: url(./WhatsApp\ Image\ 2024-01-26\ at\ 2.43.09\ PM.jpeg);
+    background-size: cover;
+    width: 100vw;
+    height: 500px;
+}
+
+#text1 {
+    padding-top: 100px;
+    padding-bottom: 20px;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: "Encode Sans" sans-serif;
+    color: white;
+    text-transform: capitalize;
+    margin-left: 100px;
+    letter-spacing: 1px;
+}
+
+#text2 {
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    align-items: right;
+    margin-left: 100px;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+#B2 {
+    background-color: rgb(221, 21, 21);
+    color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 35px;
+}
+
+#sec1 {
+    display: flex;
+    width: 100vw;
+    height: 130px;
+}
+
+#line1,
+#line2,
+#line3 {
+    width: 450px;
+    height: 115px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    background-color: white;
+    text-align: left;
+}
+
+#line1 {
+    margin-left: 200px;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#line2 {
+    margin-left: 40px;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#line3 {
+    margin-left: 40px;
+    margin-right: 200px;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#sec2 {
+    width: 100vw;
+    height: 600px;
+    display: flex;
+}
+
+#divFive {
+    width: 36%;
+    justify-content: center;
+    padding-top: 160px;
+    margin-right: 0;
+    margin-left: 160px;
+}
+
+#divSix {
+    width: 64%;
+}
+
+#text3 {
+    color: darkslategrey;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+}
+
+#text4 {
+    color: grey;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+}
+
+#S1 {
+    color: grey;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#B3 {
+    background-color: rgb(221, 21, 21);
+    color: white;
+    border: 1px solid red;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 180px;
+    padding-left: 180px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 200px;
+}
+
+#youtube1 {
+    padding-top: 100px;
+    padding-left: 30px;
+    margin-right: 60px;
+}
+
+#sec3 {
+    width: 100vw;
+    height: 600px;
+    background-image: url(https://www.ubagroup.com/wp-content/uploads/2023/02/world-map.png);
+    background-size: cover;
+    background-color: rgb(34, 34, 1);
+}
+
+#H1 {
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    color: white;
+    padding-left: 160px;
+    padding-top: 80px;
+}
+
+#H2 {
+    font-size: 43px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    color: white;
+    padding-left: 160px;
+}
+
+#H3 {
+    font-size: 23px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    padding-left: 160px;
+    font-weight: 300;
+}
+
+#B4 {
+    border: 1px solid white;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: transparent;
+    border-radius: 7px;
+    margin-left: 170px;
+}
+
+#B5 {
+    border: 1px solid rgb(221, 21, 21);
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(221, 21, 21);
+    border-radius: 7px;
+    margin-left: 40px;
+}
+
+#sec4 {
+    width: 100vw;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 80px;
+}
+
+#slide1,
+#slide2,
+#slide3 {
+    width: 410px;
+    height: 500px;
+    display: block;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    border-radius: 9px;
+}
+
+#slide1 {
+    margin-left: 125px;
+    background-image: url(https://www.ubagroup.com/wp-content/uploads/2023/11/image002-1.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#slide3 {
+    margin-right: 125px;
+}
+
+#p1 {
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    color: gray;
+    padding-top: 290px;
+    margin-left: 20px;
+}
+
+#p2 {
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: #333333;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+
+#r1 {
+    color: rgb(221, 21, 21);
+    margin-left: 20px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 550;
+}
+
+#slide2 {
+    background-image: url(https://www.ubagroup.com/wp-content/uploads/2024/01/UBA-Foundation-2-scaled.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#p3 {
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+    color: gray;
+    padding-top: 290px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#p4 {
+    font-size: 21px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: #333333;
+    margin-left: 20px;
+    margin-bottom: 60px;
+}
+
+#r2 {
+    color: rgb(221, 21, 21);
+    margin-left: 20px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 550;
+}
+
+#p5 {
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 200;
+    color: #333333;
+    padding-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 60px;
+}
+
+#p6 {
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: #333333;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#p7 {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: #333333;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#p8 {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: #333333;
+    margin-left: 20px;
+    margin-bottom: 110px;
+}
+
+#r3 {
+    color: rgb(221, 21, 21);
+    margin-left: 20px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 550;
+}
+
+#sec5 {
+    width: 100vw;
+    height: 300px;
+    display: flex;
+    background-image: linear-gradient(to right, #640901, black);
+    border: 1px solid transparent;
+}
+
+#Dface1 {
+    width: 63%;
+    height: inherit;
+    display: flex;
+}
+
+#p9 {
+    color: white;
+    font-size: 45px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    margin-left: 160px;
+    padding-top: 100px;
+}
+
+#Dface2 {
+    width: 38%;
+    padding-top: 80px;
+    display: block;
+
+}
+
+#B6 {
+    border: 1px solid rgb(221, 21, 21);
+    color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-color: rgb(221, 21, 21);
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+
+#or {
+    color: gray;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+
+#B7 {
+    border: 1px solid white;
+    color: rgb(221, 21, 21);
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+#sec6 {
+    width: 100vw;
+    height: 660px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+}
+
+#D1,
+#D2 {
+    width: 600px;
+    height: 650px;
+    display: block;
+    justify-content: space-evenly;
+    border: 2px solid whitesmoke;
+}
+
+#D1 {
+    margin-left: 130px;
+    background-image: url(https://www.ubagroup.com/wp-content/uploads/2022/01/always-at-your-service-uba.jpg);
+    background-size: cover;
+    background-position: -500px;
+
+}
+
+#p10 {
+    text-transform: uppercase;
+    font-size: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    color: white;
+    margin-top: 160px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+#p11 {
+    font-size: 23px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    color: white;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+#p12 {
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-weight: 400;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+
+#B8 {
+    border: 1px solid rgb(221, 21, 21);
+    color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-color: rgb(221, 21, 21);
+    border-radius: 5px;
+    margin-left: 60px;
+    margin-bottom: 150px;
+}
+
+#D2 {
+    margin-right: 130px;
+    border-radius: 15px;
+}
+
+#p13 {
+    font-size: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: darkslategray;
+    font-weight: 700;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-bottom: 25px;
+}
+
+#p14 {
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: grey;
+    font-weight: 500;
+    margin-left: 90px;
+    margin-bottom: 35px;
+}
+
+#img1 {
+    width: 320px;
+    height: 320px;
+    border-radius: 100%;
+    margin-left: 75px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+#icon1 {
+    margin-left: 35px;
+
+}
+
+#icon2 {
+    justify-content: end;
+    margin-left: 50px;
+}
+
+#p15 {
+    margin-left: 250px;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: rgb(84, 89, 95);
+}
+
+#icon1 {
+    margin-left: 35px;
+}
+
+#icon2 {
+    justify-content: end;
+    margin-left: 50px;
+}
+
+#sec7 {
+    width: 100vw;
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+    background-color: whitesmoke;
+}
+
+#F1,
+#F2 {
+    width: 600px;
+    height: 650px;
+    justify-content: space-evenly;
+    border-radius: 13px;
+}
+
+#F1 {
+    border: 1px solid black;
+    margin-left: 127px;
+}
+
+#F2 {
+    border: 1px solid rgb(221, 21, 21);
+    background-color: red;
+    margin-right: 127px;
+}
+
+#p16 {
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: darkslategrey;
+    margin-left: 30px;
+}
+
+#p17 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    margin-left: 30px;
+    margin-bottom: 25px;
+    color: grey;
+}
+
+#B9 {
+    border: 1px solid rgb(221, 21, 21);
+    color: white;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background-color: rgb(221, 21, 21);
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-bottom: 60px;
+}
+
+#WM {
+    height: 300px;
+    width: 550px;
+    margin-left: 20px;
+}
+
+#p18 {
+    font-size: 40px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+#p19 {
+    font-size: 20px;
+    margin-left: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+#V1 {
+    font-size: 16px;
+    font-family: sans-serif;
+    color: gray;
+
+    margin-bottom: 20px;
+}
+
+#T {
+    display: flex;
+    justify-content: space-between;
+    border-spacing: 10px;
+}
+
+#V2 {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: gray;
+    margin-bottom: 15px;
+}
+
+#V3 {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: gray;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+#select1 {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: gray;
+    font-weight: 100;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+}
+
+#V4 {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: gray;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    border: 1px solid transparent;
+    margin-bottom: 20px;
+}
+
+#C1 {
+    margin-left: 28px;
+    margin-bottom: 20px;
+}
+
+#V5 {
+    color: white;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    margin-left: 2px;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+
+#B10 {
+    border: 1px solid rgb(221, 21, 21);
+    color: white;
+    padding-left: 255px;
+    padding-right: 255px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background-color: rgb(221, 21, 21);
+    border-radius: 5px;
+    margin-left: 25px;
+}
+
+#sec8 {
+    width: 100vw;
+    height: 180px;
+    display: block;
+}
+
+#Z {
+    outline-style: dotted;
+    outline-width: thin;
+    width: 80%;
+    margin-left: 150px;
+    margin-top: 35px;
+    align-items: center;
+}
+
+#p20 {
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: #7a7a7a;
+    margin-bottom: 10px;
+    padding-top: 5px;
+    margin-left: 45%;
+}
+
+#img2 {
+    width: 75px;
+    height: 65px;
+    margin-bottom: 10px;
+    margin-left: 47%;
+}
+
+#p21 {
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 100;
+    color: grey;
+    margin-bottom: 10px;
+    margin-left: 40%;
+}
+
+#sec9 {
+    display: flex;
+    width: 100vw;
+    height: 150px;
+    border: 2px solid whitesmoke;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+#y1,
+#y2,
+#y3 {
+    height: inherit;
+    width: 100%;
+    display: flex;
+    background-color: rgb(230, 34, 34, 0.6);
+    justify-content: center;
+    align-items: center;
+}
+
+#Y1 {
+    background-image: url(https://www.ubagroup.com/nigeria/wp-content/uploads/sites/3/2019/01/UBA-leadership.jpg);
+    width: 33%;
+    height: 100%;
+    background-size: 100% 100%;
+
+}
+
+#Y2 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU9UxY1zjxNGm3x7-Bo3-4pNmossWuhEtruA&usqp=CAU);
+    width: 34%;
+    height: 100%;
+    background-size: 100% 100%;
+}
+
+#Y3 {
+    background-image: url(https://www.ubagroup.com/wp-content/uploads/2018/08/UBA-Header-inner-page-about-uba.jpg);
+    background-size: 100% 100%;
+    width: 33%;
+    height: 100%;
+}
+
+#sec10 {
+    width: 100vw;
+    height: 350px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    padding-top: 50px;
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+
+}
+
+#n1>ul {
+    list-style: none;
+    color: gray;
+
+}
+
+#n2>ul {
+    list-style: none;
+    color: gray;
+}
+
+#n3>ul {
+    list-style: none;
+    color: gray;
+}
+
+#n4>ul {
+    list-style: none;
+    color: gray;
+}
+
+#heading1,
+#heading2,
+#heading3,
+#heading4 {
+    color: black;
+    font-size: 20px;
+}
+
+#Language {
+    width: 180px;
+    height: 45px;
+    border: 1px solid black;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: gray;
+}
+
+#p22 {
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#imgApp,
+#imgGoogle {
+    width: 120px;
+    height: 35px;
+    margin-right: 5px;
+}
+
+#App1,
+#App2,
+#App3,
+#App4,
+#App5 {
+    background-color: gainsboro;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 1px solid grey;
+    color: gray;
+}
+
+#sec11 {
+    display: flex;
+    width: 100vw;
+    height: 135px;
+    background-color: black;
+    justify-content: space-around;
+}
+
+#footer1 {
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    color: #7a7a7a;
+    margin-right: 65px;
+}
+
+#p25 {
+    padding-top: 30px;
+    margin-bottom: 10px;
+}
+
+#footer2 {
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    color: #7a7a7a;
+    margin-right: 65px;
+    display: flex;
+
+}
+
+#p26 {
+    padding-top: 35px;
+    margin-right: 20px;
+    text-decoration: underline;
+}
+
+#p27 {
+    padding-top: 35px;
+    text-decoration: underline;
+}
+
+#p28 {
+    padding-top: 30px;
+    margin-left: 20px;
+}
+
+#chat {
+    width: 40px;
+    height: 35px;
+    border: 1px solid rgb(221, 21, 21);
+    border-radius: 5px;
+    background-color: rgb(221, 21, 21);
+    padding-top: 20px;
+    padding-left: 10px;
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+}
+
+#final {
+    color: ghostwhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#sectionone {
+    background-image: url(https://l450v.alamy.com/450v/2k56w7j/person-holding-mobile-phone-with-logo-of-company-united-bank-for-africa-plc-uba-on-screen-in-front-of-business-web-page-focus-on-phone-display-2k56w7j.jpg);
+    width: 100%;
+    height: 220px;
+}
+
+#navone {
+    display: flex;
+    width: 100%;
+    height: 90px;
+    position: sticky;
+}
+
+.padlock {
+    padding-right: 10px;
+    color: white;
+}
+
+#buttonone {
+    width: 180px;
+    height: 45px;
+    margin-top: 23px;
+    margin-left: 30px;
+    background-color: #AD0201;
+    border: 1px solid #AD0201;
+    border-radius: 5px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+#divone {
+    display: flex;
+    color: rgba(0, 0, 0, 0.45);
+    font-weight: lighter;
+}
+
+#house {
+    margin-top: 38px;
+    margin-left: 12px;
+    font-size: 17px;
+}
+
+.hone {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.htwo {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.hthree {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.hfour {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.hfive {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.hsix {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+#world {
+    margin-top: 38px;
+    margin-left: 20px;
+    font-size: 17px;
+}
+
+.hseven {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+#search {
+    margin-top: 36px;
+    margin-left: 150px;
+    font-size: 17px;
+}
+
+.img1 {
+    width: 170px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+#divtwo {
+    color: white;
+} 
+#buttontwo {
+    background-color: #AD0201;
+    color: white;
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+} 
+
+#divthree {
+    width: 95%;
+    height: 120px;
+     /* border: 2px solid red;  */
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    }
+    
+    #container {
+        width: 30%;
+        height: inherit;
+        background-color: beige;
+        color: #000;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        border-radius: 20px;
+    }

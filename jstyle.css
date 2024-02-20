@@ -1,0 +1,402 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#navOne {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+}
+
+
+
+#imgOne {
+    width: 150px;
+    margin-left: 100px;
+}
+
+#divTwo {
+    margin-top: 30px;
+    font-size: 10px;
+}
+
+#buttonOne {
+    background-color: white;
+    color: #2790C3;
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+    border: 1px solid #2790C3;
+    border-radius: 90px;
+    /* margin-right: 20px; */
+}
+
+#buttonTwo {
+    background-color: #0070BA;
+    color: white;
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 90px;
+    margin-right: 250px;
+}
+
+
+
+
+
+#sectionOne {
+    background-image: url(https://www.paypalobjects.com/webstatic/en_GB/mktg/wright/home/homepage-hero-1x.jpg);
+    width: 100%;
+    height: 400px;
+
+
+}
+
+#divFour {
+
+    border: 1px solid whitesmoke;
+    height: 300px;
+    text-align: center;
+    color: white;
+}
+
+#headTwo {
+    margin-top: 150px;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 100;
+
+}
+
+#buttonThree {
+    background-color: #0070BA;
+    border-radius: 80px;
+    border: 1px solid #0070BA;
+    color: white;
+    font-size: 20px;
+    width: 400px;
+    height: 50px;
+    margin-top: 40px;
+}
+
+#paraOne {
+    font-weight: 100;
+    font-size: 18px;
+    margin-top: 20px;
+
+}
+
+
+#headThree {
+    padding-top: 100px;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+#imgTwo {
+    margin-left: 860px;
+    width: 60px;
+    padding-top: 50px
+}
+
+#paraTwo {
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#paraThree {
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#buttonFour {
+    font-size: 20px;
+    border: 1px solid #0070BA;
+    width: 210px;
+    margin-left: 800px;
+    color: #0070BA;
+    border-radius: 90px;
+    margin-top: 20px;
+    height: 55px;
+    background-color: white;
+
+}
+
+#sectionThree {
+    background-color: #F7F9FA;
+    border: 1px solid #F7F9FA;
+    height: 650px;
+
+
+
+}
+
+#divFive {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#divSix {
+    display: flex;
+
+
+}
+
+#paraFour {
+    text-align: center;
+    padding-top: 70px;
+    font-size: 40px;
+}
+
+#paraFive {
+    text-align: center;
+    padding-top: 50px;
+    text-decoration: underline;
+
+
+
+
+}
+
+#sectionFour {
+    background-color: #003087;
+    height: 400px;
+    border: 1px solid#003087;
+}
+
+#headSeven {
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+
+}
+
+/* #divSeven{
+
+    margin-left: 120px;
+    margin-top: 70px;
+} */
+
+#headFour {
+    border: 1px solid black;
+    width: 40px;
+    height: 30px;
+    border-radius: 100%;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+#paraSix {
+    margin-left: 180px;
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+
+#chevron {
+    width: 400px;
+    padding-bottom: 800px;
+}
+
+#headFive {
+
+    margin-left: 200px;
+    border: 1px solid black;
+    width: 40px;
+    height: 30px;
+    border-radius: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#paraSeven {
+    margin-left: 260px;
+    font-size: 15px;
+    /* margin-bottom: 3000px; */
+}
+
+#headSix {
+
+    margin-left: 350px;
+    border: 1px solid black;
+    width: 40px;
+    height: 30px;
+    border-radius: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#paraEight {
+    margin-left: 410px;
+    font-size: 15px;
+    /* margin-bottom: 300px; */
+
+}
+
+
+
+#sectionFive {
+
+    background-color: #F7F9FA;
+    border: 1px solid#F7F9FA;
+    height: 300px;
+}
+
+#buttonFive {
+    font-size: 20px;
+    border: 1px solid #0070BA;
+    width: 210px;
+    margin-right: 800px;
+
+    color: #0070BA;
+    border-radius: 90px;
+    margin-top: 100px;
+    height: 55px;
+    background-color: white;
+
+
+}
+
+#paraTen {
+    text-align: center;
+    padding-top: 70px;
+    font-size: 35px;
+}
+
+#buttonSix {
+    font-size: 20px;
+    width: 300px;
+    height: 55px;
+    background-color: #0070BA;
+    color: white;
+    margin-left: 730px;
+    margin-top: 30px;
+    border-radius: 90px;
+    border: 1px solid #0070BA;
+
+
+}
+
+#divTen {
+    display: flex;
+    color: white;
+}
+
+#div12 {
+    margin-left: 300px;
+    margin-top: 80px;
+}
+
+#div11 {
+    margin-top: 80px;
+    margin-left: 100px;
+}
+
+#headEight {
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+#headNine {
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+#div13 {
+    display: flex;
+    margin-top: 50px;
+    border-bottom: 1px solid black;
+    height: 35px;
+    width: 1300px;
+    margin: auto;
+    padding-top: 100px;
+
+}
+
+#imgThree {
+    width: 30px;
+    height: 20px;
+    margin-left: 780px;
+    margin-top: 1px;
+}
+
+#hh1 {
+    margin-left: -10px;
+}
+
+#hh2 {
+    margin-left: 20px;
+}
+
+#hh3 {
+    margin-left: 20px;
+}
+
+#hh4 {
+    margin-left: 20px;
+}
+
+#hh5 {
+    margin-left: 20px;
+}
+
+#hh6 {
+    margin-left: 20px;
+}
+
+#div14 {
+    display: flex;
+    height: 35px;
+    width: 1300px;
+    padding-top: 15px;
+    color: rgba(0, 0, 0, 0.45);
+    font-weight: lighter;
+}
+
+#hh7 {
+    margin-left: 240px;
+}
+
+#hh8 {
+    margin-left: 20px;
+}
+
+#hh9 {
+    margin-left: 20px;
+}
+
+#hh10 {
+    margin-left: 20px;
+}
+
+#hh11 {
+    margin-left: 350px;
+    /* font-size: 25px; */
+}
+
+#hh12 {
+    margin-left: 65px;
+    /* font-size: 15px; */
+}
+
+#hh13 {
+    margin-left: 20px;
+    /* font-size: 15px; */
+}
+
+#hh14 {
+    margin-left: 20px;
+    /* font-size: 15px; */
+}
+
+#hh15 {
+    margin-left: 20px;
+    /* font-size: 15px; */
+}
