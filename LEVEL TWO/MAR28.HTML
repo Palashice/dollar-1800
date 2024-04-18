@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+    //Loops in JavaScript
+    let arr = [1,2,3,4,5,6,7,8,9]
+    for(let i = 0; i < arr.length; i++){
+        const item = arr[i];
+        console.log(item * 9)
+    }
+
+    let wole = {
+        name:"Adewole",
+        age:23,
+        color:"Blue",
+        food:"Beans and bread",
+        club:"Chelsea"
+    }
+
+    for(item in wole){
+        console.log(item);
+        console.log(wole[item]);
+    }
+
+    let num = 15
+    let tracker = 0
+    // while (tracker <= num) {
+    //     console.log(tracker * 17)
+    //     tracker++
+    // }
+
+    do{
+        console.log(tracker * 25)
+        tracker++;
+    }while(tracker <= 30)
+
+
+</script>
+</html>

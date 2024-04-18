@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <h1 id="head">Welcome</h1>
+  <label id="label"> Username:</label>
+  <input id="input" type="text">
+  <button id="button" type="submit">Submit</button>
+
+</body>
+
+<script>
+  let username;
+
+  document.getElementById("button").onclick = function () {
+    username = document.getElementById("input").value;
+    document.getElementById("head").innerHTML = `Hello ${username}`
+  }
+
+
+
+  // let usernames;
+  // usernames = window.prompt(`What your name`);
+  // console.log(usernames)
+
+
+
+
+  // let age = window.prompt(`Your age`)
+  // age = Number(age)
+
+  // age += 1
+
+  // console.log(age, typeof age)
+
+
+
+
+  let x = `pizza`;
+  let y = `pizza`;
+  let z = `pizza`;
+
+x= Number(x)
+y= String(y)
+z=Boolean(z)
+
+
+console.log(x, typeof x)
+console.log(y, typeof y)
+console.log(z, typeof z)
+
+
+
+
+
+
+</script>
+
+</html>

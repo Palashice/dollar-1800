@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input placeholder="Enter Number" type="text" id="inputOne">
+    <input placeholder="Enter Number" type="text" id="inputTwo">
+    <button id="button1" onclick="displayResult()">SUBMIT</button>
+    <div id="divOne"></div>
+</body>
+<script>
+    let numOne = document.getElementById("inputOne")
+    let numTwo = document.getElementById("inputTwo")
+    let result = document.getElementById("divOne")
+
+    function displayResult(){
+        numOne = numOne.value;
+        numTwo = numTwo.value;
+        result.innerHTML = '';
+
+       let i = 0
+       while(i <= numTwo){
+        let tracker = numOne * i;
+        result.innerHTML += `${numOne} * ${i} = ${tracker} <br> <br>`;
+        i++;
+
+       } }
+</script>
+</html>

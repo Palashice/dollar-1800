@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <input id="inputOne"  type="number">
+
+    <button type="button" onclick="myFunction()"  > Submit</button>
+    <div id="inputTwo" > See result  </div>
+</body>
+
+
+    <script>
+        let inputOne = document.getElementById(`inputOne`);
+        let inputTwo = document.getElementById(`inputTwo`);
+        
+        function myFunction(){
+            let Idan = (inputOne.value);
+        if (Idan >=0  &&     Idan <=39 ){
+            inputTwo.innerHTML = `Your score ${Idan} is Olodo.`
+        }else if (Idan >= 40 && Idan <= 69){
+            inputTwo.innerHTML = `Your score ${Idan} is You no try still.`}
+        else if (Idan >=70 && Idan <= 100){
+            inputTwo.innerHTML = `Your score ${Idan} You too much.  `}
+         else if (Idan > 100 || Idan < 0    ){
+            inputTwo.innerHTML = `Your score ${Idan} =FOOL FOOLER FOOLEST `
+         }
+
+         inputOne.value = ""
+
+    }
+
+
+
+
+    </script>
+
+
+</html>

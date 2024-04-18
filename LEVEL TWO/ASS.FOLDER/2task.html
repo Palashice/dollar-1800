@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+
+
+
+
+
+
+*{
+        margin: 0;
+        padding: 0;
+    }
+nav{
+    width: 100%;
+    height: 60px;
+    background-color:#00B53F ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    border: 1px solid black;
+    z-index: 1;
+   
+}
+#NavImg{
+    width: 70px;
+    height: 60px;
+    margin-left: -100px;
+}
+
+#NavDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 370px;
+    height: 50px;
+    border: 1px solid #00B53F;
+    margin-right: -100px;
+}
+#NavDivbutton1{
+    border-right: 1px solid ;
+   
+    font-size: 13px;
+font-weight: 400;
+line-height: normal;
+font-family: sans-serif;
+color: white;
+width: 100px;
+    height: 45px;
+    border: none;
+    
+ 
+   /* border: 1px solid black; */
+   background-color: #00B53F;
+
+
+}
+
+#NavDivbutton2{
+font-size: 13px;
+font-weight: 400;
+line-height: normal;
+font-family: sans-serif;
+color: white;
+margin-left: 5px;
+width: 120px;
+    height: 45px;
+ 
+   border: none;
+   background-color: #00B53F;
+
+
+
+}
+#NavDivbutton3{
+    width: 130px;
+    height: 45px;
+   border-radius: 3px;
+   border: none;
+   color: white;
+   margin-left: 10px;
+  
+
+    background-color: #FEA03C;
+}
+
+#NavH{
+    font-size: 16px;
+    font-weight:400 ;
+    line-height:24 px;
+    font-family: sans-serif;
+    color: #80DA9F;
+}
+#sec1{
+    background-color: #EBF2F7;
+}
+
+#MainDiv{
+    width: 100%;
+    height: 1200px;
+    display: flex;
+    padding-top: 100px;
+    margin-left: 100px;
+}
+
+#MainDiv1{
+    width: 800px;
+    height: 900px;
+    border: 1px solid black;
+}
+#MainDiv2{
+    width: 325px;
+    height: 600px;
+    border: 1px solid #EBF2F7;
+    margin-left: 50px;
+}
+#MainDiv2MainChild{
+    border-radius: 5px;
+    border: 1px solid white;
+    height: 200px;
+    background-color: white;
+   
+   
+    
+}
+#MainDiv2MainChild1{
+    margin-left: 20px;
+    display: flex;
+    
+}
+#MainDiv2MainChild1P{
+    margin-left: 50px;
+    margin-top: 35px;
+    font-size: 14px;
+    line-height: 14px;
+    font-family: sans-serif;
+    color: #00B53F;
+    
+}
+#MainDiv2MainChild1H{
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: 700px;
+    line-height: 24px;
+    font-family: sans-serif;
+}
+
+#MainDiv2MainChild1Button{
+    width: 270px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+    color: #1BBC53;
+    margin-left: 20px;
+    margin-top: 15px;
+    background-color: white;
+    border: 1px solid #EBF2F7;
+
+}
+
+#MainDiv2MainChild1Button1{
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 270px;
+    height: 40px;
+    border: 1px solid #1BBC53;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+    color: #1BBC53;
+    
+}
+#MainDiv2MainChild1Button1:hover {
+    background-color: #1bbc5312;
+}
+
+#MainDiv2MainChild1Button:hover{
+    background-color: #1bbc5312;
+}
+
+#MainDiv2MainChild00MUGUImg{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+     margin-top: 15px;
+}
+
+#MainDiv2MainChild00{
+    margin-top: 20px;
+  
+    border: 1px solid #EBF2F7;
+    background-color: white;
+    height: 250px;
+}
+
+#MainDiv2MainChild00MUGU{
+
+    display: flex;
+
+}
+#MainDiv2MainChild00MUGUChildH{
+    font-size: 16px;
+    font-weight: 500;
+    line-height:24px ;
+    font-family:sans-serif ;
+    color: rgb(40, 54, 62);
+
+}
+#MainDiv2MainChild00MUGUChild{
+    margin-top: 15px;
+    margin-left: 25px;
+}
+
+#MainDiv2MainChild00MUGUChildP1{
+margin-left: 10px;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    font-family:sans-serif ;
+     color: rgb(108, 142, 160);
+
+}
+
+#MainDiv2MainChild00MUGUChildP2{
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    font-family:sans-serif ;
+    color: rgb(108, 142, 160);
+    
+}
+#MainDiv2MainChild00Button{
+    background-color: #1BBC53;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 270px;
+    height: 40px;
+    border: 1px solid #1BBC53;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: normal;
+    color: white;
+
+}
+
+#MainDiv2MainChild00Button1{
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 270px;
+    height: 40px;
+    border: 1px solid #1BBC53;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: normal;
+    color: #1BBC53;
+    
+}
+#MainDiv2MainChild00Button2{
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 270px;
+    height: 40px;
+    border: 1px solid #1BBC53;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: normal;
+    color: #1BBC53;
+    
+    
+}
+#MainDiv2MainChild00Button:hover{
+    background-color: hsl(141, 100%, 30%);
+  
+}
+
+#MainDiv2MainChild00Button1:hover{
+    background-color: hsl(141, 100%, 30%);
+    color: white;
+}
+
+#MainDiv2MainChild00Button2:hover{
+    background-color: hsl(141, 100%, 30%);
+    color: white;
+}
+#DivButton{
+    display: flex;
+    border-radius: 8px;
+    margin-top: 20px;
+    border: 1px solid white;
+    height: 60px;
+    background-color: white;
+
+}
+#DivButton1{
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 145px;
+    height: 40px;
+    border: 1px solid #1BBC53;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: normal;
+    color: #1BBC53;
+
+}
+#DivSafety{
+    margin-top: 20px;
+    border: 1px solid white;
+    background-color: white;
+    height: 200px;
+}
+#DivSafetyH{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+#DivSafetyP{
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+
+
+}
+#DivAd{
+    border: 1px solid white;
+    margin-top: 20px;
+    height: 65px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+#DivAdButton{
+    background-color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 280px;
+    height: 40px;
+    border: 1px solid #1BBC53;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: normal;
+    color: #1BBC53;
+
+}
+
+
+
+</style>
+
+
+
+
+<nav>
+
+    <i class="fa-solid fa-bars"></i>
+
+    <img id="NavImg" src="https://upload.wikimedia.org/wikipedia/commons/1/15/Jiji_africa.jpg" alt="">
+
+
+  <input  type="text  "   >
+
+    <h3 id="NavH"> SELL FASTER BUY SMARTER </h3>
+
+   <div id="NavDiv">
+    <button id="NavDivbutton1">Sign in</button>
+
+    <button id="NavDivbutton2">Registration</button>
+
+
+    <button id="NavDivbutton3">SELL</button>
+   </div>
+
+</nav>
+<body>
+    <section id="sec1">
+     <div id="MainDiv">
+
+        <div id="MainDiv1"></div>
+
+
+
+
+        <div id="MainDiv2">
+
+
+            <div id="MainDiv2MainChild">
+<div id="MainDiv2MainChild1">
+    <h1 id="MainDiv2MainChild1H">₦ 160,000, <br>Negotiable</h1>
+
+
+    <p id="MainDiv2MainChild1P">Price History &nbsp; <i class="fa-solid fa-chevron-right"></i></p>
+</div>
+
+<button id="MainDiv2MainChild1Button">Market price: ₦ 245 K ~ 250 K</button>
+
+<button id="MainDiv2MainChild1Button1">Request call back</button>
+
+
+</div>
+
+
+<div  id="MainDiv2MainChild00">
+    <div id="MainDiv2MainChild00MUGU">
+        <div>
+            <img  id="MainDiv2MainChild00MUGUImg" src="https://png.pngtree.com/png-clipart/20190916/original/pngtree-cartoon-contact-icon-download-png-image_4591406.jpg">
+        </div>
+        
+        
+        <div id="MainDiv2MainChild00MUGUChild">
+    
+            <h2 id="MainDiv2MainChild00MUGUChildH">Harrison Anyamah</h2>
+    
+            <p id="MainDiv2MainChild00MUGUChildP1">Typically replies within minutes</p>
+    
+            <p id="MainDiv2MainChild00MUGUChildP2">4 y 1 m on jiji</p>
+            
+        </div>
+    
+    
+      
+    
+    
+    </div>
+    <button id="MainDiv2MainChild00Button">Show contact</button>
+    <button id="MainDiv2MainChild00Button1">Start chat</button>
+    <button id="MainDiv2MainChild00Button2">Add to cart</button>
+</div>
+
+<div id="DivButton">
+    <button id="DivButton1">Mark unavailable</button>
+    <button id="DivButton1">Report Abuse </button>
+</div>
+
+
+
+
+
+<div id="DivSafety">
+    <h1 id="DivSafetyH">Safety tips</h1>
+    <p id="DivSafetyP">     Avoid paying in advance, even for delivery
+        <br>
+        Meet with the seller at a safe public place<br>
+        Inspect the item and ensure it's exactly what<br> you want
+        <br>Make sure that the packed item is the one you've inspected<br>
+        Only pay if you're satisfied 
+    
+    </p>
+
+
+
+</div>
+
+<div id="DivAd">
+    <button id="DivAdButton">Post Ad Like This</button>
+</div>
+
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     </div>
+
+
+
+
+    </section>
+    
+</body>
+<script src="https://kit.fontawesome.com/f5f130ea41.js" crossorigin="anonymous"></script>
+</html>

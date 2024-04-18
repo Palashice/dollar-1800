@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #DivButton {
+        display: grid;
+        grid-template-columns: repeat(4, 0fr);
+
+    }
+
+    button {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        border: none;
+        background-color: hsl(0, 0%, 30%);
+        color: white;
+        font-size: 2rem;
+        font-weight: bold;
+        cursor: pointer;
+        /* margin-left: -20px; */
+
+    }
+
+    #Big {
+        width: 190px;
+        padding-right: 120px;
+
+
+        color: white;
+        font-size: 2rem;
+        font-weight: bold;
+        cursor: pointer;
+        margin-top: 5px;
+    }
+
+    #Main {
+        background-color: black;
+        width: 100%;
+        height: 100vh;
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    input {
+        width: 100%;
+        height: 150px;
+        background-color: black;
+        color: white;
+        /* border: ; */
+    }
+
+    button:hover {
+        background-color: hsl(0, 0%, 40%);
+    }
+
+    button:active {
+        background-color: hsl(0, 0%, 50%);
+    }
+
+    #operator-btn{
+        background-color: hsl(39, 100%, 50%);
+
+    }
+</style>
+
+<body>
+
+
+
+    <div id="Main">
+        <input id="Input" type="text">
+        <div id="DivButton">
+
+
+
+
+            <button onclick="clearFunction()" id="operator-btn">AC</button>
+
+            <button onclick="DisplayButton(`fa-solid fa-plus-minus`)" id="operator-btn"ß><i
+                    class="fa-solid fa-plus-minus"> </i></button>
+
+
+
+            <button onclick="DisplayButton(`%`)" id="operator-btn">%</button>
+            <button onclick="DisplayButton(`/`)" id="operator-btn">/</button>
+
+
+            <button onclick="DisplayButton(`7`)">7</button>
+
+            <button onclick="DisplayButton(`8`)">8</button>
+
+
+            <button onclick="DisplayButton(`9`)">9</button>
+
+
+            <button onclick="DisplayButton(`*`)" id="operator-btn">*</button>
+
+            <button onclick="DisplayButton(`4`)">4</button>
+            <button onclick="DisplayButton(`5`)">5</button>
+
+
+            <button onclick="DisplayButton(`6`)">6</button>
+
+
+            <button onclick="DisplayButton(`-`)" id="operator-btn">-</button>
+            <button onclick="DisplayButton(`1`)">1</button>
+            <button onclick="DisplayButton(`2`)">2</button>
+
+
+            <button onclick="DisplayButton(`3`)">3</button>
+
+            <button onclick="DisplayButton(`+`)" id="operator-btn">+</button>
+
+        </div>
+
+        <div>
+            <button id="Big" onclick="DisplayButton(`0`)">0</button>
+
+            <button onclick="DisplayButton(`.`)">.</button>
+
+
+
+
+
+
+
+            <button onclick="totalResult()">=</button>
+        </div>
+
+
+
+
+
+
+
+
+
+    </div>
+
+
+    <script src="CAL.js"></script>
+
+</body>
+<script src="https://kit.fontawesome.com/f5f130ea41.js" crossorigin="anonymous"></script>
+
+</html>

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+    #sectionOne{
+        width: 200px;
+        height: 200px;
+        background-color: orangered;
+    }
+
+
+
+
+
+</style>
+<body>
+
+
+    <h1 id="h1"></h1>
+    <h2 class="h2"></h2>
+    <h2 id="h2"></h2>
+
+    <div id="divOne"></div>
+
+
+
+
+   
+    
+</body>
+
+
+<script>
+
+let h1 =document.getElementById("h1");
+// h1.innerHTML = "Our first DOM manipulative class.";
+h1.innerText = "This is our first Dom manipulative class";
+
+// let h2= document.getElementsByClassName("h2");
+
+
+let h2= document.querySelector(".h2");
+h2.innerHTML ="This is a text";
+
+
+let anotherH2= document.querySelector("#h2");
+anotherH2.innerHTML = "test test test";
+
+
+let divOne = document.getElementById("divOne");
+divOne.style.backgroundColor= "Green";
+divOne.style.width = "200px";
+divOne.style.height= "200px";
+
+
+
+let parent = document.body;
+let sectionOne = document.createElement("section");
+sectionOne.id= ("sectionOne");
+parent.appendChild(sectionOne);
+
+
+
+
+
+ //Assignment
+    //Submit a write up on the differences between function statements and arrow functions in javascript.
+    //Submit a write up om event listeners in JavaScript.
+    function analyzeNum(){
+        let num = prompt("Enter your number: ")
+        num = Number(num)
+        num % 2 === 0 ? alert(`The number ${num} is an even number`) : alert(`The number ${num} is an odd number`);
+    }
+
+    analyzeNum()
+
+    let num = prompt("Enter your number: ")
+    num = Number(num)
+    num % 2 === 0 ? alert(`The number ${num} is an even number`) : alert(`The number ${num} is an odd number`);
+
+    const alertUserName = () => {
+        let userName = prompt("Enter your user name: ");
+        alert(`Welcome ${userName}`);
+    }
+
+    alertUserName()
+
+    const alertFavoriteFood = function(){
+        let favoriteFood = prompt("Enter your favorite food: ")
+        alert(`Your favorite food ${favoriteFood} is a nice meal`)
+        console.log(window.name)
+        console.log(window)
+    }
+    alertFavoriteFood()
+
+
+
+
+    ///Mar 14 js
+
+
+    let 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+</html>

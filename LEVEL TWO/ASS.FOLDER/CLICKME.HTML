@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <button id="input" onclick="input(`Click`)">
+CLICK ME
+    </button>
+</body>
+
+<script>
+
+    function input() {
+        let sentence = prompt("Enter a Sentence");
+        if (sentence.includes("javascript"))
+            alert(`
+The sentence in uppercase is " ${sentence.toUpperCase()}"
+The sentence in lowercase is "${sentence.toLowerCase()}"
+The length of the string is "${sentence.length}"
+The index of "A" in the sentence is "${sentence.indexOf(`a`)}"
+The sentence include javascript
+`);
+        else alert(`
+
+The sentence in uppercase is " ${sentence.toUpperCase()}"
+The sentence in lowercase is "${sentence.toLowerCase()}"
+The length of the string is "${sentence.length}"
+The index of "A" in the sentence is "${sentence.indexOf(`a`)}"
+The sentence does not include javascript
+
+`)
+
+    }
+
+
+
+
+</script>
+
+</html>
